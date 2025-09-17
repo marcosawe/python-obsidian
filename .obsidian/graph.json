@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Fundamentos da Programação\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2779855
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 0.471829521829522,
+  "lineSizeMultiplier": 0.451455301455301,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 3.0977130977131,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1.5683264227719442,
+  "close": false
+}

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "e5e2bbb489c88561",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac3e0fcdf00cb8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1158174a58cab920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos da Programação/Estruturas de Dados/Slice/Slice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e03cdb51830ee22",
+    "type": "split",
+    "children": [
+      {
+        "id": "06165ffd8b36b698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055ac8b30ddf909f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "293d86b3d14cd4de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3e18069a3713034d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "725ec81e1ad9b970",
+    "type": "split",
+    "children": [
+      {
+        "id": "79cf8c5a2f54cf75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d87b4c68570595d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Funções.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Funções"
+            }
+          },
+          {
+            "id": "9fa4810890ca18af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Funções.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Funções"
+            }
+          },
+          {
+            "id": "d03581e9b6c30e9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3f02f4931facffc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Funções.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Funções"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1158174a58cab920",
+  "lastOpenFiles": [
+    "Fundamentos da Programação/Configurando Linguagem.md",
+    "Fundamentos da Programação/Comentários e DocString.md",
+    "Fundamentos da Programação/Fundamentos Básicos/Funções/Clojures.md",
+    "Fundamentos da Programação/Fundamentos Básicos/Funções/Decoradores.md",
+    "Fundamentos da Programação/Estruturas de Dados/Estruturas de Dados.md",
+    "Fundamentos da Programação/Estruturas de Dados/Listas/Métodos de Lista.md",
+    "Fundamentos da Programação/Estruturas de Dados/Listas Multidimensionais/Métodos Multidimensionais Numpy.md",
+    "Fundamentos da Programação/Estruturas de Dados/Tuplas/Métodos de Tuplas.md",
+    "Fundamentos da Programação/Estruturas de Dados/Slice/Slice.md",
+    "Fundamentos da Programação/Estruturas de Dados/Slice",
+    "Fundamentos da Programação/Estruturas de Dados/Generators/Yield.md",
+    "Fundamentos da Programação/Fundamentos Básicos.base",
+    "Fundamentos da Programação/Fundamentos Básicos/Operadores/Operadores.md",
+    "Python Básico.md",
+    "Fundamentos da Programação/Fundamentos Básicos/Operadores/Operadores de Atribuição.md",
+    "Fundamentos da Programação/Sem título.canvas",
+    "Sem título.md",
+    "Fundamentos da Programação/Fundamentos Básicos/Fundamentos Básicos.md",
+    "Fundamentos da Programação/Estruturas de Dados/Generators/Generator.md",
+    "Fundamentos da Programação/Estruturas de Dados/Generators",
+    "Fundamentos da Programação/Estruturas de Dados/Instance/Instance.md",
+    "Fundamentos da Programação/Hardware e Software/Comandos Via CLI.md",
+    "Fundamentos da Programação/Hardware e Software/Hardware e Software.md",
+    "Fundamentos da Programação/Hardware e Software/Compilação e Modo Interativo.md",
+    "Fundamentos da Programação/Estruturas de Dados/Instance",
+    "Fundamentos da Programação/Estruturas de Dados/Args Kwargs/Empacotamento e Desempacotamento.md",
+    "Fundamentos da Programação/Estruturas de Dados/Args Kwargs/Sem título.md",
+    "Fundamentos da Programação/Estruturas de Dados/Args Kwargs/Args e Kwargs.md",
+    "Fundamentos da Programação/Estruturas de Dados/Compreensões de Listas/Set Comprehensions.md",
+    "Fundamentos da Programação/Estruturas de Dados/Compreensões de Listas/List Comprehension.md",
+    "Fundamentos da Programação/Estruturas de Dados/Compreensões de Listas/Dict Comprehension.md",
+    "Fundamentos da Programação/Estruturas de Dados/Compreensões de Listas",
+    "Fundamentos da Programação/Estruturas de Dados/Args Kwargs",
+    "Fundamentos da Programação/Estruturas de Dados/Sets",
+    "Sem título.canvas",
+    "Fundamentos da Programação/Estruturas de Dados/Dicionários",
+    "Fundamentos da Programação/Estruturas de Dados/Iteradores",
+    "Fundamentos da Programação/Estruturas de Dados/Tuplas",
+    "Fundamentos da Programação/Estruturas de Dados/Sem título.canvas",
+    "Fundamentos da Programação/Fundamentos Básicos/Sem título.canvas"
+  ]
+}

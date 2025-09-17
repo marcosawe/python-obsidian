@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Base Visual
+    order:
+      - file.name
+      - file.backlinks
