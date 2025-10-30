@@ -72,3 +72,9 @@
 
 ## Decoradores
 [[Decoradores]]
+
+---
+## Try Except
+[[Try Except]]
+
+---

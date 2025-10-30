@@ -102,7 +102,7 @@ obj.my_method()
 
 Python tem vários decoradores integrados, como @[[staticmethod]], @[[classmethod]], e @[[property]]. Eles são usados para definir métodos que operam no nível da classe, transformar métodos em propriedades, e mais.
 
-### Uso de Functools.wraps
+### Uso de [[Functools.wraps]]
 
 Quando você cria decoradores, é uma boa prática usar `functools.wraps` dentro de sua função `wrapper`. Isso é importante para preservar a metainformação da função original, como o nome e a documentação:
 

@@ -170,3 +170,4 @@ Em Python, uma variável é um nome que se refere a um valor armazenado na memó
 
 [[Type]]
 [[ID]]
+[[Variáveis Locais e Globais]]

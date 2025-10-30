@@ -4,3 +4,6 @@ views:
     order:
       - file.name
       - file.backlinks
+    sort:
+      - property: file.ctime
+        direction: DESC
